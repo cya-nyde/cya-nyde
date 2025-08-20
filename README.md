@@ -10,8 +10,8 @@
 ## 🎓 Certifications
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0078D6?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)  
 [![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-0078D6?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)  
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
 [![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/)  
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)  
 [![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-000000?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/Certifications/CC)
 
 ## 💻 Tech Stack
