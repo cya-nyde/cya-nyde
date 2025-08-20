@@ -1,8 +1,7 @@
 # About Me
 🎓 Graduated Cum Laude from California Polytechnic University Pomona with a Bachelor's of Science in Business Administration - Computer Information Systems<br>
-💻 Computer technician and digital forensics specialist at Argyle Corporation
+💻 Computer technician and digital forensics specialist at Argyle Corporation<br>
 🌐 Currently pursuing CPTS and OSCP
-
 
 ## 📱 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lhuanglhu) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyanide0125@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cya-nyde)
