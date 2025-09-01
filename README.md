@@ -1,5 +1,5 @@
 # About Me
-🎓 Graduated Cum Laude from California Polytechnic University Pomona with a Bachelor's of Science in Business Administration - Computer Information Systems<br>
+🎓 Graduated from California Polytechnic University Pomona with a Bachelor's of Science in Business Administration - Computer Information Systems<br>
 💻 Computer technician and digital forensics specialist at Argyle Corporation<br>
 🌐 Currently pursuing CPTS and OSCP
 
